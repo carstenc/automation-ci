@@ -6,11 +6,7 @@ Cucumber/Selenium webDriver Automation examples integrated with Jenkins CI
 [Clone the repo](https://help.github.com/articles/fetching-a-remote/#clone) to begin
 
 **NOTE**
-You will need the following installed on your machine:
-Ruby 
-RubyGem
-Cucumber
-Firefox browser
+You will need the following installed on your machine: Ruby, RubyGems, Cucumber, and Firefox browser
 
 Execute the automation tests manually from command line:
 `cd automation-ci`
