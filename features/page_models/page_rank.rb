@@ -11,7 +11,8 @@ class PageRank < PageActions
   end
 
   def score_check score
-  	@browser.find_element(:css, ".twoc span").text.include? (score)
+  	#@browser.find_element(:css, ".twoc span").text.include?(score)
+    @browser.find_element(:css, ".twoc span").text.should == (score)
   	
   end
 
