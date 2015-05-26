@@ -7,7 +7,7 @@ Cucumber/Selenium webDriver Automation examples integrated with Jenkins CI
 
 **NOTE**
 You will need the following installed on your machine:
-- Ruby
+- Ruby 2.0.0 (or later)
 - RubyGems
 - Cucumber
 - Firefox browser
